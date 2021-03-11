@@ -1,0 +1,38 @@
+.description_study{
+    padding: 20px;
+    color: #fff; 
+}
+.nav_s{
+max-width: 500px;
+}
+.img_2{
+    display: flex;
+    justify-content: space-between;
+}
+.img_study_3{
+    display: block;
+    margin: 0 auto;
+}
+.pp{
+    text-transform: uppercase;
+    color: #8bd4d0;
+}
+/*-----*/
+/*button*/
+.test{
+    display: block;
+    margin: 2em 300px auto 20em;
+    background: none;
+    border: 2px solid #00D4C6;
+    color: #00D4C6;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 5px 25px;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: 1s; /*длительность перехода*/
+}
+.test:hover{
+    background: #00D4C6;
+    color: #fff;
+}
